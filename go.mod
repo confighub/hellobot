@@ -2,7 +2,7 @@ module github.com/confighub/hellobot
 
 go 1.27.2
 
-require github.com/confighub/sdk/core v0.8.21
+require github.com/confighub/sdk/core v0.9.4
 
 require (
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0 // indirect
